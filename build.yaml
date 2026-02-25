@@ -1,6 +1,5 @@
 # shield: [ "corne_left", "corne_right" ]
 # include:
-#   - board: bdn9_rev2
 #   - board: nice_nano_v2
 #     shield: reviung41
 #   - board: nice_nano_v2
