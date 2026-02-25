@@ -11,4 +11,4 @@ include:
     shield: reviung41
   - board: nice_nano//zmk
     shield: reviung41
-    artifact-name: reviung_zmk_var_art
+    artifact-name: reviung_zmk_var_test
