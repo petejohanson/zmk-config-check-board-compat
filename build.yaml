@@ -4,6 +4,8 @@ include:
     shield: reviung41
   - board: nice_nano
     shield: reviung41
+  - board: nice_nano
+    shield: corne_left
   - board: nice60
   - board: nice60//zmk
     artifact-name: nice60_zmk_variant
