@@ -3,4 +3,4 @@ on: [push, pull_request, workflow_dispatch]
 
 jobs:
   build:
-    uses: petejohanson/zmk/.github/workflows/build-user-config.yml@zmk-board-compat-checks
+    uses: petejohanson/zmk/.github/workflows/build-user-config.yml@ci-zmk-compat-check-config-mod-repo-fix
