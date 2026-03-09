@@ -11,4 +11,4 @@ include:
     artifact-name: nice60_zmk_variant
   - board: nice_nano//zmk
     shield: reviung41
-    artifact-name: reviung_zmk_variant
+    artifact-name: reviung_zmk_variant_boogaloo
